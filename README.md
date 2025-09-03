@@ -15,8 +15,8 @@
 - 📫 How to reach me:  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/yourphonenumber)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](your-instagram-url)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/0741740772)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.threads.com/@hildaa._______?xmt=AQF0kgvIqXHT_SxiX48cwEvpJ_FC07sMUsfu0aBdILR04Ng)  
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](your-x-url)  
 
 ---
