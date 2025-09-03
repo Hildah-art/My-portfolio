@@ -1,4 +1,3 @@
-# My-portfolio
 # Hi there 👋, I'm Hildah Wanjiru  
 
 💻 Full Stack Developer | 🌍 Open Source Enthusiast | 🚀 Lifelong Learner  
@@ -14,10 +13,10 @@
 - 💬 Ask me about **JavaScript, React, Node.js, Flask, and databases**  
 - 📫 How to reach me:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](your-linkedin-url)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/0741740772)  
-[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.threads.com/@hildaa._______?xmt=AQF0kgvIqXHT_SxiX48cwEvpJ_FC07sMUsfu0aBdILR04Ng)  
-[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](your-x-url)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)  
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254741740772)  
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/hildaa._______/)  
+[![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/your-x-username)  
 
 ---
 
@@ -33,9 +32,9 @@
 
 ## 📊 GitHub Stats  
 
-![Hildah's GitHub stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)  
+![Hildah's GitHub stats](https://github-readme-stats.vercel.app/api?username=HildahWanjiru&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HildahWanjiru&layout=compact&theme=radical)  
 
 ---
 
