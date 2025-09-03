@@ -13,7 +13,7 @@
 - 💬 Ask me about **JavaScript, React, Node.js, Flask, and databases**  
 - 📫 How to reach me:  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-username)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/Hildah Wanjiru)  
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp)](https://wa.me/254741740772)  
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram)](https://www.instagram.com/hildaa._______/)  
 [![X](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x)](https://x.com/your-x-username)  
